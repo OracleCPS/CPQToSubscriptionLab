@@ -223,3 +223,34 @@ In this lab, we're going to use a REST adapter to connect to Subscripton Managem
 ![Homepage](Images/image35.png)
 
 
+<p>&nbsp;</p>
+
+##1.7: CREATE A SUBSCRIPTION IN SUBSCRIPTION MANGEMENT CLOUD
+
+#### 1.7.1: Go to Subscription Management Cloud home page:
+OSS URL: <em>https://adc3-zids-login.oracledemos.com</em>
+<p>&nbsp;</p>
+
+![Homepage](Images/image36.png)
+<p>&nbsp;</p>
+
+#### 1.7.2: Log in using the same credentials you used for Lab 1 <br/>
+
+Your OSS login credientals will be provided by your lab facilitator.
+<p>&nbsp;</p>
+
+#### 1.7.3: Click on the home icon <br/>
+![Homepage](Images/image37.png)
+<p>&nbsp;</p>
+
+#### 1.7.4: Under Sales, select Opportunities <br/>
+![Homepage](Images/image38.png)
+<p>&nbsp;</p>
+
+#### 1.7.5: Click on Create Opportunity from the top right <br/>
+![Homepage](Images/image39.png)
+<p>&nbsp;</p>
+
+#### 1.7.6: Click on Create Opportunity from the top right <br/>
+![Homepage](Images/image39.png)
+<p>&nbsp;</p>

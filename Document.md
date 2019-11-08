@@ -165,23 +165,29 @@ In this lab, we're going to use a REST adapter to connect to Subscripton Managem
 
 #### 1.4.1: Search the REST connection in the search box. In this case, "OSS_REST_CONN"
 ![Homepage](Images/image20.png)
+<p>&nbsp;</p>
 
 #### 1.4.2: Select the OSS_REST_CONN connector. When the connection is displayed, click on the hamburger menu and select Edit
 ![Homepage](Images/image21.png)
+<p>&nbsp;</p>
 
 #### 1.4.3: Click on Configure Connectivity 
 ![Homepage](Images/image22.png)
+<p>&nbsp;</p>
 
 #### 1.4.4: Make sure REST API Base URL is selected under Connection Type. Provide your REST URL for Connection URL, and click OK. REST URL will be provided by lab facilitator. 
 ![Homepage](Images/image23.png)
+<p>&nbsp;</p>
 
 #### 1.4.5: Click on Save from the top right
 
 #### 1.4.6: Click on Configure Security
 ![Homepage](Images/image24.png)
+<p>&nbsp;</p>
 
 #### 1.4.7: Provide credentials to access your Subscription Management Cloud application, and click OK
 ![Homepage](Images/image25.png)
+<p>&nbsp;</p>
 
 #### 1.4.8: Click on Save from the right top corner, and click Save again from the Save Changes dialogue box. Close the "saved successfully" notification box
 
@@ -194,6 +200,7 @@ In this lab, we're going to use a REST adapter to connect to Subscripton Managem
 
 #### 1.4.12: Click Close from the top right
 ![Homepage](Images/image27.png)
+<p>&nbsp;</p>
 
 #### 1.4.13: Your REST connection is now active
 ![Homepage](Images/image28.png)

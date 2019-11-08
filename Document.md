@@ -17,14 +17,19 @@ The business scenario is to allow sales teams to capture subscription orders and
 * How to update web service connections
 * How to activate integrations
 * How to create subscriptions through CPQ Cloud
-* How to create subscriptions through CPQ Cloud
+* How to terminate subscriptions through CPQ Cloud
 
 
 ## APPLICATIONS USED
 
 * Oracle Integration Cloud (OIC)
+  OIC URL: <em>https://oictraining3-oicpm.integration.ocp.oraclecloud.com/ic/home/</em>
+
 * CPQ Cloud
+  CPQ URL: <em>https://cpq-20263.bigmachines.com/</em>
+
 * Subscription Management Cloud (OSS)
+  OSS URL: <em>https://adc3-zids-login.oracledemos.com</em>
 
 ## 1.1 IMPORT INTEGRATION ARTIFACTS FROM ORACLE CLOUD MARKETPLACE
 
@@ -37,12 +42,14 @@ You should get redirected to a prebuilt Oracle CPQ Cloud to Oracle Subscription 
 #### 1.1.2: Click on Get App
 ![Homepage](Images/image2.png)
 
+<p>&nbsp;</p>
 
 #### 1.1.3: Review and accept the Oracle Standard Terms and Restrictons, and click Next
 ![Homepage](Images/image3.png)
 
+<p>&nbsp;</p>
 #### 1.1.4: Scroll to the Details section of the page, click on the "End to End Flow" Integration .jar file from the CPQ- OSS Integration Artifacts table </b>
-The OIC Integration for End-to-End Flow contains the integrations for the create subscription, modify subscription, renew subscription, and terminate subscription workflows. This lab will focus on create, modify and terminate.
+The OIC Integration for End-to-End Flow contains the integrations for the create subscription, modify subscription, renew subscription, and terminate subscription workflows. This lab will focus on create and terminate.
 
 ![Homepage](Images/image4.png)
 
@@ -54,7 +61,8 @@ The OIC Integration for End-to-End Flow contains the integrations for the create
 
 ## 1.2: IMPORT INTEGRATION ARTIFACT INTO OIC 
 
-#### 1.2.1: Click <a href="https://integration-orasenatdpltintegration02.integration.ocp.oraclecloud.com" target="_blank">HERE</a> to got your OIC instance <br/>
+#### 1.2.1: Go to https://integration-orasenatdpltintegration02.integration.ocp.oraclecloud.com
+
 
 ![Homepage](Images/image5.png)
 

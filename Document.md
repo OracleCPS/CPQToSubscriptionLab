@@ -3,9 +3,12 @@
 
 ![Homepage](Images/image1.png)
 
-## OBJECTIVE
 
-This document outlines a step-by-step guide on how to import Oracle Integration Cloud (OIC) packages from Oracle Cloud Marketplace into your OIC environment, and create web service connections between CPQ Cloud and Subscription Mangement Cloud. This lab will focus on how to create subscription, amend subscription, renew subscription, and terminate subscription in CPQ, and have those changes reflected in Subscripton Managment Cloud.
+## BACKGROUND
+
+This document outlines a step-by-step guide on how to import Oracle Integration Cloud (OIC) artifacts from Oracle Cloud Marketplace into an OIC environment, and create web service connections between CPQ Cloud and Subscription Mangement Cloud. This lab will focus on how to create subscriptions and terminate subscriptions in CPQ, and have those changes reflected in Subscripton Managment Cloud.
+
+The business scenario is to allow sales teams to capture subscription orders and perform subscription management activities throughout the lifecycle of these customer relationships. The integration, enabled by Oracle’s next generation Oracle Integration Cloud middleware, comes with a Subscription Management package that includes installable artifacts for both CPQ Cloud and OIC.
 
 ## COMPONENTS COVERED
 
@@ -13,7 +16,8 @@ This document outlines a step-by-step guide on how to import Oracle Integration 
 * How to import integration artifacts into OIC
 * How to update web service connections
 * How to activate integrations
-* How to create, amend, terminate, and renew subscriptions through CPQ Cloud
+* How to create subscriptions through CPQ Cloud
+* How to create subscriptions through CPQ Cloud
 
 
 ## APPLICATIONS USED
@@ -27,6 +31,8 @@ This document outlines a step-by-step guide on how to import Oracle Integration 
 #### 1.1.1: Click <a href="https://cloudmarketplace.oracle.com/marketplace/en_US/adf.task-flow?tabName=O&adf.tfDoc=%2FWEB-INF%2Ftaskflow%2Fadhtf.xml&application_id=53214800&adf.tfId=adhtf" target="_blank">HERE</a> to got to Oracle Cloud Marketplace.
 
 You should get redirected to a prebuilt Oracle CPQ Cloud to Oracle Subscription Cloud app.
+
+<p>&nbsp;</p>
 
 #### 1.1.2: Click on Get App
 ![Homepage](Images/image2.png)

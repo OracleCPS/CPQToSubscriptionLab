@@ -84,6 +84,7 @@ Your OIC Password will be provided by your lab facilitator.
 
 #### 1.2.5: Click on Browse from the Import Integration dialogue box and select the END2ENDINTEGRATION_19A .jar file. Click on Import. <br/>
 ![Homepage](Images/image7.png)
+<p>&nbsp;</p>
 
 #### 1.2.6: Your integration is now imported successfully. <br/>
 ![Homepage](Images/image8.png)
@@ -99,44 +100,58 @@ Your OIC Password will be provided by your lab facilitator.
 
 #### 1.3.2: Click on Connections from the left side menu under Designer
 ![Homepage](Images/image8.png)
+<p>&nbsp;</p>
 
 #### 1.3.3: Search for the CPQ connection in the search box. In this case, "CPQ-055"
 ![Homepage](Images/image9.png)
+<p>&nbsp;</p>
 
 #### 1.3.4: Select the CPQ-055 connector. When the connection is displayed, click on the hamburger menu and select Edit
 ![Homepage](Images/image10.png)
+<p>&nbsp;</p>
 
 #### 1.3.5: Click on Configure Connectivity
 ![Homepage](Images/image11.png)
+<p>&nbsp;</p>
 
 #### 1.3.6: Make sure SOAP WSDL URL is selected under Connection Type. For Connection URL, copy and paste the WSDL URL below. 
+<p>&nbsp;</p>
 
 Connection URL: https://cpq-20263.bigmachines.com/v2_0/receiver/commerce/oraclecpqo?WSDL
 
 ![Homepage](Images/image12.png)
+<p>&nbsp;</p>
 
 #### 1.3.7: Click on Save from the top right
+<p>&nbsp;</p>
 
 #### 1.3.8: Click on Configure Security
 ![Homepage](Images/image13.png)
+<p>&nbsp;</p>
 
 #### 1.3.9: Provide credentials to access your CPQ application, and click OK
 ![Homepage](Images/image14.png)
+<p>&nbsp;</p>
 
 #### 1.3.10: Click on Save from the right top corner, and click Save again from the Save Changes dialogue box. Close the "saved successfully" notification box
 ![Homepage](Images/image15.png)
+<p>&nbsp;</p>
 
 #### 1.3.11: Click on Test from the top right
 ![Homepage](Images/image16.png)
+<p>&nbsp;</p>
 
 #### 1.3.12: Make sure the connection tests successfully and reflects 100%. Close the green notification box.
 ![Homepage](Images/image17.png)
+<p>&nbsp;</p>
 
 #### 1.3.13: Click Save from the top right. click Save again from the Save Changes dialogue box, 
 ![Homepage](Images/image17.1.png)
+<p>&nbsp;</p>
 
 #### 1.3.14: Click Close from the top right
 ![Homepage](Images/image18.png)
+<p>&nbsp;</p>
 
 #### 1.3.15: Your CPQ connection is now active
 ![Homepage](Images/image19.png)

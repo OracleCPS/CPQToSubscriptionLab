@@ -23,17 +23,14 @@ The business scenario is to allow sales teams to capture subscription orders and
 ## APPLICATIONS USED
 
 * Oracle Integration Cloud (OIC)
-  OIC URL: <em>https://oictraining3-oicpm.integration.ocp.oraclecloud.com/ic/home/</em>
-
 * CPQ Cloud
-  CPQ URL: <em>https://cpq-20263.bigmachines.com/</em>
-
 * Subscription Management Cloud (OSS)
-  OSS URL: <em>https://adc3-zids-login.oracledemos.com</em>
+
+<p>&nbsp;</p>
 
 ## 1.1 IMPORT INTEGRATION ARTIFACTS FROM ORACLE CLOUD MARKETPLACE
 
-#### 1.1.1: Click <a href="https://cloudmarketplace.oracle.com/marketplace/en_US/adf.task-flow?tabName=O&adf.tfDoc=%2FWEB-INF%2Ftaskflow%2Fadhtf.xml&application_id=53214800&adf.tfId=adhtf" target="_blank">HERE</a> to got to Oracle Cloud Marketplace.
+#### 1.1.1: Click <a href="https://cloudmarketplace.oracle.com/marketplace/en_US/adf.task-flow?adf.tfDoc=%2FWEB-INF%2Ftaskflow%2Fadhtf.xml&adf.tfId=adhtf&application_id=53214800&tabName=O" target="_blank"> HERE</a> to got to Oracle Cloud Marketplace.
 
 You should get redirected to a prebuilt Oracle CPQ Cloud to Oracle Subscription Cloud app.
 
@@ -61,8 +58,10 @@ The OIC Integration for End-to-End Flow contains the integrations for the create
 
 ## 1.2: IMPORT INTEGRATION ARTIFACT INTO OIC 
 
-#### 1.2.1: Go to https://integration-orasenatdpltintegration02.integration.ocp.oraclecloud.com
-
+#### 1.2.1: Go to Oracle Integration Cloud:
+<p>&nbsp;</p>
+OIC URL: <em> https://integration-orasenatdpltintegration02.integration.ocp.oraclecloud.com</em>
+<p>&nbsp;</p>
 
 ![Homepage](Images/image5.png)
 

@@ -71,7 +71,8 @@ OIC URL: <em>https://oictraining3-oicpm.integration.ocp.oraclecloud.com/ic/home/
 
 #### 1.2.2: Log in using the same credentials you used for Lab 1 <br/>
 
-OIC User Name: OICTraining3ic[User Number]
+OIC User Name: OICTraining3ic[User Number] <br/>
+<p>&nbsp;</p>
 Your OIC Password will be provided by your lab facilitator.
 
 #### 1.2.3: Select Integrations from the left side menu of the OIC home page <br/>

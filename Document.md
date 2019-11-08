@@ -62,15 +62,17 @@ The OIC Integration for End-to-End Flow contains the integrations for the create
 
 ## 1.2: IMPORT INTEGRATION ARTIFACT INTO OIC 
 
-#### 1.2.1: Go to Oracle Integration Cloud:
-OIC URL: <em> https://integration-orasenatdpltintegration02.integration.ocp.oraclecloud.com</em>
+#### 1.2.1: Go to Oracle Integration Cloud home page:
+OIC URL: <em>https://oictraining3-oicpm.integration.ocp.oraclecloud.com/ic/home/</em>
 <p>&nbsp;</p>
 
 ![Homepage](Images/image5.png)
+<p>&nbsp;</p>
 
+#### 1.2.2: Log in using the same credentials you used for Lab 1 <br/>
 
-#### 1.2.2: Log in using the credentials your lab facilitator will provide <br/>
-Credential: OICMotorolaUser[User Number]
+OIC User Name: OICTraining3ic[User Number]
+Your OIC Password will be provided by your lab facilitator.
 
 #### 1.2.3: Select Integrations from the left side menu of the OIC home page <br/>
 ![Homepage](Images/image5.1.png)

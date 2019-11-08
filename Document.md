@@ -1,5 +1,5 @@
 
-# CPQ CLOUD TO SUBSCRIPTION MANAGEMENT CLOUD INTEGRATION TEST
+# LAB 2: CPQ CLOUD TO SUBSCRIPTION MANAGEMENT CLOUD INTEGRATION TEST
 
 ![Homepage](Images/image1.png)
 
@@ -28,7 +28,6 @@ The business scenario is to allow sales teams to capture subscription orders and
 * Oracle Integration Cloud (OIC)
 * CPQ Cloud
 * Subscription Management Cloud (OSS)
-
 <p>&nbsp;</p>
 
 ## 1.1 IMPORT INTEGRATION ARTIFACTS FROM ORACLE CLOUD MARKETPLACE
@@ -73,15 +72,17 @@ OIC URL: <em>https://oictraining3-oicpm.integration.ocp.oraclecloud.com/ic/home/
 
 <strong>OIC User Name</strong>: OICTraining3ic[User Number] <br/>
 Your OIC Password will be provided by your lab facilitator.
+<p>&nbsp;</p>
 
-#### 1.2.3: Select Integrations from the left side menu of the OIC home page <br/>
+#### 1.2.3: After logging in, select Integrations from the left side menu of the OIC home page <br/>
 ![Homepage](Images/image5.1.png)
+<p>&nbsp;</p>
 
-#### 1.2.4: Click on Import from the top right
+#### 1.2.4: Click on Integrations again from the left hand side menu, and click on Import from the top right.
 ![Homepage](Images/image6.png)
+<p>&nbsp;</p>
 
-
-#### 1.2.5: Click on Browse from the Import Integration dialogue box and select the END2ENDINTEGRATION_19A .jar file. Click on Import <br/>
+#### 1.2.5: Click on Browse from the Import Integration dialogue box and select the END2ENDINTEGRATION_19A .jar file. Click on Import. <br/>
 ![Homepage](Images/image7.png)
 
 #### 1.2.6: Your integration is now imported successfully. <br/>
@@ -189,7 +190,36 @@ In this lab, we're going to use a REST adapter to connect to Subscripton Managem
 ## 1.5: ACTIVATE INTEGRATION
 
 #### 1.5.1: Select Integrations from the left side menu
-![Homepage](Images/image28.png)
+![Homepage](Images/image29.png)
+<p>&nbsp;</p>
 
-#### 1.5.1: Find the End2EndIntegration-19A.
-![Homepage](Images/image28.png)
+#### 1.5.2: Find the End2EndIntegration-19A. Hover over the integration and click on the power switch
+![Homepage](Images/image30.png)
+<p>&nbsp;</p>
+
+#### 1.5.3: From the Activation Integration dialogue box, select Enable Tracing and Include Payload
+![Homepage](Images/image30.png)
+<p>&nbsp;</p>
+
+#### 1.5.4: Click on Activate
+![Homepage](Images/image31.png)
+
+
+## 1.6: CLONE INTEGRATION
+
+#### 1.6.1: Hover over the activated integration, and select the hamburger menu. Select Clone from the action items list
+![Homepage](Images/image32.png)
+<p>&nbsp;</p>
+
+#### 1.6.2: Rename the integration as follows: "User [insert user number] End2Endintegration". Click Clone.
+![Homepage](Images/image33.png)
+<p>&nbsp;</p>
+
+#### 1.6.3: Hover over your cloned integration and click on the power switch
+![Homepage](Images/image34.png)
+<p>&nbsp;</p>
+
+#### 1.6.4: From the Activation Integration dialogue box, select Enable Tracing and Include Payload. Click on Activate
+![Homepage](Images/image35.png)
+
+

@@ -10,6 +10,8 @@ This document outlines a step-by-step guide on how to import Oracle Integration 
 
 The business scenario is to allow sales teams to capture subscription orders and perform subscription management activities throughout the lifecycle of these customer relationships. The integration, enabled by Oracle’s next generation Oracle Integration Cloud middleware, comes with a Subscription Management package that includes installable artifacts for both CPQ Cloud and OIC.
 
+<p>&nbsp;</p>
+
 ## COMPONENTS COVERED
 
 * How to download integration artifacts from Oracle Cloud Marketplace
@@ -19,6 +21,7 @@ The business scenario is to allow sales teams to capture subscription orders and
 * How to create subscriptions through CPQ Cloud
 * How to terminate subscriptions through CPQ Cloud
 
+<p>&nbsp;</p>
 
 ## APPLICATIONS USED
 
@@ -45,6 +48,7 @@ You should get redirected to a prebuilt Oracle CPQ Cloud to Oracle Subscription 
 ![Homepage](Images/image3.png)
 
 <p>&nbsp;</p>
+
 #### 1.1.4: Scroll to the Details section of the page, click on the "End to End Flow" Integration .jar file from the CPQ- OSS Integration Artifacts table </b>
 The OIC Integration for End-to-End Flow contains the integrations for the create subscription, modify subscription, renew subscription, and terminate subscription workflows. This lab will focus on create and terminate.
 
@@ -59,7 +63,6 @@ The OIC Integration for End-to-End Flow contains the integrations for the create
 ## 1.2: IMPORT INTEGRATION ARTIFACT INTO OIC 
 
 #### 1.2.1: Go to Oracle Integration Cloud:
-<p>&nbsp;</p>
 OIC URL: <em> https://integration-orasenatdpltintegration02.integration.ocp.oraclecloud.com</em>
 <p>&nbsp;</p>
 

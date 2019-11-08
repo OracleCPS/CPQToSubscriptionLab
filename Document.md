@@ -33,7 +33,7 @@ The business scenario is to allow sales teams to capture subscription orders and
 
 ## 1.1 IMPORT INTEGRATION ARTIFACTS FROM ORACLE CLOUD MARKETPLACE
 
-#### 1.1.1: Click <a href="https://cloudmarketplace.oracle.com/marketplace/en_US/adf.task-flow?adf.tfDoc=%2FWEB-INF%2Ftaskflow%2Fadhtf.xml&adf.tfId=adhtf&application_id=53214800&tabName=O" target="_blank"> HERE</a> to got to Oracle Cloud Marketplace.
+#### 1.1.1: Click <a href="https://cloudmarketplace.oracle.com/marketplace/en_US/adf.task-flow?adf.tfDoc=%2FWEB-INF%2Ftaskflow%2Fadhtf.xml&adf.tfId=adhtf&application_id=53214800&tabName=O" target="blank"> HERE</a> to got to Oracle Cloud Marketplace.
 
 You should get redirected to a prebuilt Oracle CPQ Cloud to Oracle Subscription Cloud app.
 

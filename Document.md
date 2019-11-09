@@ -246,8 +246,9 @@ In this lab, we're going to use a REST adapter to connect to Subscripton Managem
 
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
-##1.7: CREATE A SUBSCRIPTION IN SUBSCRIPTION MANGEMENT CLOUD
+## 1.7: CREATE A SUBSCRIPTION IN SUBSCRIPTION MANGEMENT CLOUD
 
 #### 1.7.1: Go to Subscription Management Cloud home page:
 OSS URL: <em>https://adc3-zids-login.oracledemos.com</em>
@@ -273,6 +274,25 @@ Your OSS login credientals will be provided by your lab facilitator.
 ![Homepage](Images/image39.png)
 <p>&nbsp;</p>
 
-#### 1.7.6: Click on Create Opportunity from the top right <br/>
-![Homepage](Images/image39.png)
+#### 1.7.6: Insert Opportunity Name. "FIT 5000 Purchase User [user name]". <br/>
+Account: New Start Gyms <br/>
+Primary Contact: Lisa Lauber <br/>
 <p>&nbsp;</p>
+
+Click Save and Close <br/>
+
+![Homepage](Images/image40.png)
+
+#### 1.7.7: Select the opportunity you created from the Opportunities list <br/>
+![Homepage](Images/image41.png)
+<p>&nbsp;</p>
+
+#### 1.7.8: Select Quotes and Order from the Left hand side menu <br/>
+![Homepage](Images/image42.png)
+
+#### 1.7.9: Click on Create Quote from the top right <br/>
+![Homepage](Images/image43.png)
+
+
+#### 1.7.10: Click on Create Quote from the top right <br/>
+![Homepage](Images/image43.png)

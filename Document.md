@@ -266,7 +266,7 @@ Your OSS login credientals will be provided by your lab facilitator.
 ![Homepage](Images/image37.png)
 <p>&nbsp;</p>
 
-#### 1.7.4: Under Sales, select Opportunities <br/>
+#### 1.7.4: Under Sales Cloud, select Opportunities <br/>
 ![Homepage](Images/image38.png)
 <p>&nbsp;</p>
 
@@ -289,10 +289,217 @@ Click Save and Close <br/>
 
 #### 1.7.8: Select Quotes and Order from the Left hand side menu <br/>
 ![Homepage](Images/image42.png)
+<p>&nbsp;</p>
 
 #### 1.7.9: Click on Create Quote from the top right <br/>
+<p>&nbsp;</p>
+
 ![Homepage](Images/image43.png)
 
+<p>&nbsp;</p>
 
-#### 1.7.10: Click on Create Quote from the top right <br/>
-![Homepage](Images/image43.png)
+This will now redirect you to the embedded CPQ application.
+
+<p>&nbsp;</p>
+
+#### 1.7.10: Under Line Item Details, click on Add <br/>
+![Homepage](Images/image44.png)
+<p>&nbsp;</p>
+
+#### 1.7.11: Select Supremo Fitness, and choose VR Cardio from the products list <br/>
+![Homepage](Images/image44.1.png)
+<p>&nbsp;</p>
+
+#### 1.7.12: Click on product FIT5000 <br/>
+![Homepage](Images/image45.png)
+<p>&nbsp;</p>
+
+#### 1.7.13: Under the Subscription Services drop down, select cCoach-12month. Select Yearly from the Monitoring drop down, and click Update from the top right <br/>
+![Homepage](Images/image46.png)
+<p>&nbsp;</p>
+
+#### 1.7.14: Click Add to Transaction <br/>
+![Homepage](Images/image47.png)
+<p>&nbsp;</p>
+
+#### 1.7.15: Your product is now added to the quote. Click Save <br/>
+![Homepage](Images/image48.png)
+<p>&nbsp;</p>
+
+#### 1.7.16: Click Submit <br/>
+![Homepage](Images/image49.png)
+<p>&nbsp;</p>
+
+#### 1.7.17: Click Submit Order <br/>
+
+Make sure to note down the Transaction Number!
+
+![Homepage](Images/image50.png)
+<p>&nbsp;</p>
+
+#### 1.7.18: Click Return to Sales Cloud <br/>
+![Homepage](Images/image50.1.png)
+<p>&nbsp;</p>
+
+#### 1.7.18: Click Save and Close <br/>
+![Homepage](Images/image68.png)
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## 1.8: CHECK CREATE SUBSCRIPTION INTEGRATION WORK FLOW
+
+#### 1.8.1: Go to the OIC Home Page. Select Monitoring from the left side menu <br/>
+![Homepage](Images/image51.png)
+<p>&nbsp;</p>
+
+#### 1.8.2: Click Integrations <br/>
+![Homepage](Images/image52.png)
+<p>&nbsp;</p>
+
+#### 1.8.3: Click Tracking <br/>
+![Homepage](Images/image53.png)
+<p>&nbsp;</p>
+
+
+#### 1.8.4: Find you integration, and click on the Id number <br/>
+![Homepage](Images/image54.png)
+<p>&nbsp;</p>
+
+#### 1.8.5: Understand and explain the Create Subscription integration flow <br/>
+![Homepage](Images/image55.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## 1.9: CHECK CREATED SUBSCRIPTION IN SUBSCRIPTION CLOUD
+<p>&nbsp;</p>
+
+#### 1.9.1: Return to Subscription Cloud Home Page <br/>
+![Homepage](Images/image55.1.png)
+<p>&nbsp;</p>
+
+#### 1.9.2: Click on the hamburger menu from the top left <br/>
+![Homepage](Images/image69.png)
+<p>&nbsp;</p>
+
+#### 1.9.3: Click Subscription Management from the list <br/>
+![Homepage](Images/image70.png)
+<p>&nbsp;</p>
+
+#### 1.9.4: Enter your quote Transaction Number to find your subscription, and search <br/>
+![Homepage](Images/image71.png)
+<p>&nbsp;</p>
+
+#### 1.9.5: You now see your product, and your subscription listed in Subscription <br/>
+![Homepage](Images/image72.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## 1.20: TERMINATE SUBSCRIPTON
+
+#### 1.20.1: In Subscription Managment Cloud, click on the hamburger menu on the top left <br/>
+![Homepage](Images/image73.png)
+<p>&nbsp;</p>
+
+#### 1.20.2: Under Sales Cloud, select Opportunities <br/> 
+![Homepage](Images/image74.png)
+<p>&nbsp;</p>
+
+#### 1.20.3: Search and select the opportunity you created in the Find field<br/> 
+![Homepage](Images/image75.png)
+<p>&nbsp;</p>
+
+#### 1.20.4: Click Quotes and Order from the left side menu<br/>
+![Homepage](Images/image76.png)
+<p>&nbsp;</p>
+
+#### 1.20.5: Click on Create Quote <br/>
+![Homepage](Images/image77.png)
+<p>&nbsp;</p>
+
+#### 1.20.6: Change the year in Start Contract Date and End Contract Date to reflect the screen shot below, and click Save <br/>
+![Homepage](Images/image78.png)
+<p>&nbsp;</p>
+
+#### 1.20.7: Click Customer Assets <br/>
+![Homepage](Images/image79.png)
+<p>&nbsp;</p>
+
+#### 1.20.8: Double on the Date Added arrow to find the product you recently subscribed to <br/>
+![Homepage](Images/image80.png)
+<p>&nbsp;</p>
+
+#### 1.20.9: Select your product <br/>
+![Homepage](Images/image81.png)
+<p>&nbsp;</p>
+
+#### 1.20.10: Click Terminate <br/>
+![Homepage](Images/image82.png)
+<p>&nbsp;</p>
+
+#### 1.20.11: Click Terminate <br/>
+Under Line Item Details, if you scroll all the way to the right, you'll notice that the Action Code for the subscription now reflects Terminate.
+![Homepage](Images/image83.png)
+<p>&nbsp;</p>
+
+#### 1.20.12: Click Submit <br/>
+![Homepage](Images/image84.png)
+<p>&nbsp;</p>
+
+#### 1.20.13: Click Submit Order <br/>
+![Homepage](Images/image85.png)
+<p>&nbsp;</p>
+
+#### 1.20.14: Click Return to Sales Order <br/>
+![Homepage](Images/image86.png)
+<p>&nbsp;</p>
+
+#### 1.20.15: Click Save and Close <br/>
+![Homepage](Images/image87.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## 1.21: CHECK TERMINATED SUBSCRIPTON IN SUBSCRIPTION MANGEMENT CLOUD
+
+#### 1.21.1: Click on the hamburger menu from the top left <br/>
+![Homepage](Images/image89.png)
+<p>&nbsp;</p>
+
+#### 1.21.2: Select Subscription Management from the list <br/>
+![Homepage](Images/image70.png)
+<p>&nbsp;</p>
+
+#### 1.21.3: Enter your orginal Transaction Number to find your subscription, and search <br/>
+![Homepage](Images/image90.png)
+<p>&nbsp;</p>
+
+#### 1.21.4: You now see your your subscription is closed <br/>
+![Homepage](Images/image91.png)
+<p>&nbsp;</p>
+
+
+## 1.22: CHECK TERMINATE SUBSCRIPTION INTEGRATION WORK FLOW
+
+#### 1.8.1: Go to the OIC Home Page. Select Monitoring from the left side menu <br/>
+![Homepage](Images/image51.png)
+<p>&nbsp;</p>
+
+#### 1.8.2: Click Integrations <br/>
+![Homepage](Images/image52.png)
+<p>&nbsp;</p>
+
+#### 1.8.3: Click Tracking <br/>
+![Homepage](Images/image53.png)
+<p>&nbsp;</p>
+
+
+#### 1.8.4: Find you integration, and click on the Id number <br/>
+![Homepage](Images/image54.png)
+<p>&nbsp;</p>
+
+#### 1.8.5: Understand and explain the terminate subscription integration flow <br/>
+![Homepage](Images/image93.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+You have now completed this lab.

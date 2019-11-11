@@ -216,7 +216,7 @@ In this lab, we're going to use a REST adapter to connect to Subscripton Managem
 <p>&nbsp;</p>
 
 #### 1.5.2: Find the End2EndIntegration-19A. Hover over the integration and click on the power switch
-![Homepage](Images/image30.png)
+![Homepage](Images/image29.1.png)
 <p>&nbsp;</p>
 
 #### 1.5.3: From the Activation Integration dialogue box, select Enable Tracing and Include Payload
@@ -257,7 +257,7 @@ OSS URL: <em>https://adc3-zids-login.oracledemos.com</em>
 ![Homepage](Images/image36.png)
 <p>&nbsp;</p>
 
-#### 1.7.2: Log in using the same credentials you used for Lab 1 <br/>
+#### 1.7.2: Log in using your OSS credentials <br/>
 
 Your OSS login credientals will be provided by your lab facilitator.
 <p>&nbsp;</p>
@@ -274,7 +274,7 @@ Your OSS login credientals will be provided by your lab facilitator.
 ![Homepage](Images/image39.png)
 <p>&nbsp;</p>
 
-#### 1.7.6: Insert Opportunity Name. "FIT 5000 Purchase User [user name]". <br/>
+#### 1.7.6: Insert Opportunity Name. "FIT 5000 Purchase User [user number]". <br/>
 Account: New Start Gyms <br/>
 Primary Contact: Lisa Lauber <br/>
 <p>&nbsp;</p>

@@ -18,8 +18,8 @@ The business scenario is to allow sales teams to capture subscription orders and
 * How to import integration artifacts into OIC
 * How to update web service connections
 * How to activate integrations
-* How to create subscriptions through CPQ Cloud
-* How to terminate subscriptions through CPQ Cloud
+* How to create subscriptions in CPQ Cloud
+* How to terminate subscriptions in CPQ Cloud
 
 <p>&nbsp;</p>
 

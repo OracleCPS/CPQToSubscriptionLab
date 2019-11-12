@@ -8,7 +8,7 @@
 
 This document outlines a step-by-step guide on how to import Oracle Integration Cloud (OIC) artifacts from Oracle Cloud Marketplace into an OIC environment, and create web service connections between CPQ Cloud and Subscription Mangement Cloud. This lab will focus on how to create subscriptions and terminate subscriptions in CPQ, and have those changes reflected in Subscripton Managment Cloud.
 
-The business scenario is to allow sales teams to capture subscription orders and perform subscription management activities throughout the lifecycle of these customer relationships. The integration, enabled by Oracle’s next generation Oracle Integration Cloud middleware, comes with a Subscription Management package that includes installable artifacts for both CPQ Cloud and OIC.
+The business scenario is to allow sales teams to capture subscription orders and perform subscription management activities throughout the lifecycle of these customer relationships. The integration, enabled by Oracle’s next generation Oracle Integration Cloud middleware, comes with a Subscription Management package that includes installable artifacts for both Oracle Configure Price Quote (CPQ) and OIC. CPQ llows users to configure and quote orders
 
 <p>&nbsp;</p>
 
@@ -26,7 +26,7 @@ The business scenario is to allow sales teams to capture subscription orders and
 ## APPLICATIONS USED
 
 * Oracle Integration Cloud (OIC)
-* CPQ Cloud
+* Oracle Configure Price Quote Cloud (CPQ)
 * Subscription Management Cloud (OSS)
 <p>&nbsp;</p>
 
@@ -34,7 +34,7 @@ The business scenario is to allow sales teams to capture subscription orders and
 
 #### 1.1.1: Click <a href="https://cloudmarketplace.oracle.com/marketplace/en_US/adf.task-flow?adf.tfDoc=%2FWEB-INF%2Ftaskflow%2Fadhtf.xml&adf.tfId=adhtf&application_id=53214800&tabName=O" target="blank"> HERE</a> to got to Oracle Cloud Marketplace.
 
-You should get redirected to a prebuilt Oracle CPQ Cloud to Oracle Subscription Cloud app.
+You should get redirected to a prebuilt Oracle Oracle Configure Price Quote Cloud (CPQ) Cloud to Oracle Subscription Cloud app.
 
 <p>&nbsp;</p>
 
@@ -332,7 +332,7 @@ This will now redirect you to the embedded CPQ application.
 
 #### 1.7.17: Click Submit Order <br/>
 
-Make sure to note down the Transaction Number!
+<strong> Make sure to note down the Transaction Number! </strong>
 
 ![Homepage](Images/image50.png)
 <p>&nbsp;</p>
@@ -425,7 +425,7 @@ Make sure to note down the Transaction Number!
 ![Homepage](Images/image79.png)
 <p>&nbsp;</p>
 
-#### 1.20.8: Double on the Date Added arrow to find the product you recently subscribed to <br/>
+#### 1.20.8: Double click on the Date Added arrow to find the product you recently subscribed to <br/>
 ![Homepage](Images/image80.png)
 <p>&nbsp;</p>
 
